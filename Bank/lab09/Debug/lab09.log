@@ -1,0 +1,9 @@
+﻿  ClassesRealization.cpp
+  MyForm.cpp
+  Social.cpp
+  Standart.cpp
+  vip.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  ClassesRealization.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab09.vcxproj -> D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab09\Debug\lab09.exe
