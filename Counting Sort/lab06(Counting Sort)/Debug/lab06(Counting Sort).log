@@ -1,0 +1,4 @@
+﻿  CountingSort.cpp
+D:\Лабораторні роботи\2 курс\1 семестр\Алгоритми і структури даних\lab06(Counting Sort)\lab06(Counting Sort)\CountingSort.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CountingSort.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab06(Counting Sort).vcxproj -> D:\Лабораторні роботи\2 курс\1 семестр\Алгоритми і структури даних\lab06(Counting Sort)\Debug\lab06(Counting Sort).exe
