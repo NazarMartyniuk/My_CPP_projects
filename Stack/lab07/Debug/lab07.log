@@ -1,0 +1,33 @@
+﻿  HandleStack.cpp
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(13,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(21,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(33,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(45,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(64,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(79,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(88,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(95,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(105,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(112,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+  MyForm.cpp
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(13,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(21,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(33,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(45,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(64,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(79,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(88,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(95,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(105,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\HandleStack.h(112,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\MyForm.h(376,25): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\MyForm.h(391,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\MyForm.h(438,24): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\MyForm.h(453,25): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\lab07\MyForm.h(466,15): warning C4018: '<': signed/unsigned mismatch
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  HandleStack.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab07.vcxproj -> D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab07\Debug\lab07.exe
