@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 07\LAB_7\Lab7_OS\Lab7_OS\Lab7_OS\MyForm.cpp(34,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 07\LAB_7\Lab7_OS\Lab7_OS\Lab7_OS\MyForm.cpp(96,27): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 07\LAB_7\Lab7_OS\Lab7_OS\Lab7_OS\MyForm.cpp(115,31): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 07\LAB_7\Lab7_OS\Lab7_OS\Lab7_OS\MyForm.cpp(186,26): warning C4244: '=': conversion from '__int64' to 'unsigned long', possible loss of data
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 07\LAB_7\Lab7_OS\Lab7_OS\Lab7_OS\MyForm.cpp(195,2): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 07\LAB_7\Lab7_OS\Lab7_OS\Lab7_OS\MyForm.cpp(261,20): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 07\LAB_7\Lab7_OS\Lab7_OS\Lab7_OS\MyForm.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 07\LAB_7\Lab7_OS\Lab7_OS\Lab7_OS\MyForm.cpp(292,20): warning C4018: '<': signed/unsigned mismatch
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab7_OS.vcxproj -> D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 07\LAB_7\Lab7_OS\Lab7_OS\Debug\Lab7_OS.exe
