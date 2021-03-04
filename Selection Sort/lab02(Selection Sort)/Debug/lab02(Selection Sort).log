@@ -1,0 +1,6 @@
+﻿  Array.cpp
+  MyForm.cpp
+  Создание кода...
+C:\Users\Назар\Desktop\Лабораторні роботи\2 курс\1 семестр\Алгоритми і структури даних\lab02(Selection Sort)\lab02(Selection Sort)\Array.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Array.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab02(Selection Sort).vcxproj -> C:\Users\Назар\Desktop\Лабораторні роботи\2 курс\1 семестр\Алгоритми і структури даних\lab02(Selection Sort)\Debug\lab02(Selection Sort).exe
