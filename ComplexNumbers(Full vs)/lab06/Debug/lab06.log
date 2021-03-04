@@ -1,0 +1,8 @@
+﻿  Complex.cpp
+  MyForm.cpp
+C:\Users\Назар\Desktop\Лабораторні роботи\2 семестр\ООП\lab06\lab06\MyForm.h(482,151): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+C:\Users\Назар\Desktop\Лабораторні роботи\2 семестр\ООП\lab06\lab06\MyForm.h(492,151): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Complex.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab06.vcxproj -> C:\Users\Назар\Desktop\Лабораторні роботи\2 семестр\ООП\lab06\Debug\lab06.exe

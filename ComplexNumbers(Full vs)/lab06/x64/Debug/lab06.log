@@ -1,0 +1,8 @@
+﻿  Complex.cpp
+  MyForm.cpp
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab06\lab06\MyForm.h(482,151): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab06\lab06\MyForm.h(492,151): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Complex.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab06.vcxproj -> D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab06\x64\Debug\lab06.exe
