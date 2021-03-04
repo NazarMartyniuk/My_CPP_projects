@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 05\lab 05\MyForm.h(33,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 05\lab 05\MyForm.h(34,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 05\lab 05\MyForm.h(465,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 05\lab 05\MyForm.h(542,1): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab 05.vcxproj -> D:\Лабораторні роботи\2 курс\1 семестр\Операційні системи\lab 05\x64\Debug\lab 05.exe
