@@ -1,0 +1,6 @@
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab08\lab08\Debug\lab08.vcxprojAssemblyReference.cache
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab08\lab08\Debug\lab08.MyForm.resources
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab08\lab08\Debug\lab08.Parts.resources
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab08\lab08\Debug\lab08.Percent.resources
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab08\lab08\Debug\lab08.Privilege.resources
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab08\lab08\Debug\lab08.vcxproj.GenerateResource.cache

@@ -1,0 +1,10 @@
+﻿  Credit.cpp
+D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab08\lab08\Credit.cpp(26,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MyForm.cpp
+  Parts.cpp
+  Percent.cpp
+  Privilege.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Credit.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  lab08.vcxproj -> D:\Лабораторні роботи\1 курс\2 семестер\ООП\lab08\Debug\lab08.exe
