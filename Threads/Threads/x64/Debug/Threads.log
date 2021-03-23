@@ -1,0 +1,12 @@
+﻿  MainForm.cpp
+C:\Users\Xiaomi\OneDrive\Desktop\Freelance\Threads\Threads\MainForm.h(19,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Freelance\Threads\Threads\MainForm.h(20,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Freelance\Threads\Threads\MainForm.h(44,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Freelance\Threads\Threads\MainForm.h(45,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Freelance\Threads\Threads\MainForm.h(586,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Freelance\Threads\Threads\MainForm.h(601,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Freelance\Threads\Threads\MainForm.h(596,3): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Threads.vcxproj -> C:\Users\Xiaomi\OneDrive\Desktop\Freelance\Threads\x64\Debug\Threads.exe

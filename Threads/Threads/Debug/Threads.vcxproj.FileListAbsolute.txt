@@ -1,0 +1,3 @@
+C:\Users\Xiaomi\OneDrive\Desktop\Freelance\Threads\Threads\Debug\Threads.vcxprojAssemblyReference.cache
+C:\Users\Xiaomi\OneDrive\Desktop\Freelance\Threads\Threads\Debug\Threads.MainForm.resources
+C:\Users\Xiaomi\OneDrive\Desktop\Freelance\Threads\Threads\Debug\Threads.vcxproj.GenerateResource.cache
