@@ -1,0 +1,3 @@
+C:\Users\Xiaomi\OneDrive\Desktop\Test\Test\Debug\Test.vcxprojAssemblyReference.cache
+C:\Users\Xiaomi\OneDrive\Desktop\Test\Test\Debug\Test.Main.resources
+C:\Users\Xiaomi\OneDrive\Desktop\Test\Test\Debug\Test.vcxproj.GenerateResource.cache

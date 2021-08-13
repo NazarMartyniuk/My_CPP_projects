@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Xiaomi\OneDrive\Desktop\Test\Test\Main.h(691,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Test\Test\Main.h(141): warning C4715: 'Test::Main::CheckWhiteWin': not all control paths return a value
+C:\Users\Xiaomi\OneDrive\Desktop\Test\Test\Main.h(229): warning C4715: 'Test::Main::CheckBlackWin': not all control paths return a value
+  Gamer.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Test.vcxproj -> C:\Users\Xiaomi\OneDrive\Desktop\Test\Debug\Test.exe
